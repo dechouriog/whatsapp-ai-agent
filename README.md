@@ -9,12 +9,12 @@ Atiende el WhatsApp de una clínica odontológica de principio a fin: responde d
 > [!NOTE]
 > **Este es un repositorio de presentación.** Aquí está la documentación del proyecto: qué hace, cómo está construido, cómo se probó y qué aprendí. El código fuente vive en un repositorio privado. Si quieres revisarlo para una entrevista o una colaboración, escríbeme por [LinkedIn](https://www.linkedin.com/in/diego-eduardo-chourio-garcia-472291385/) y te doy acceso.
 
-![Next.js](https://img.shields.io/badge/Next.js-16-000000)
-![React](https://img.shields.io/badge/React-19-61DAFB)
-![Baileys](https://img.shields.io/badge/WhatsApp-Baileys-25D366)
-![SQLite](https://img.shields.io/badge/SQLite-better--sqlite3-003B57)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-modelos%20LLM-6467F2)
-![Código](https://img.shields.io/badge/c%C3%B3digo-privado-lightgrey)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-19-20232A?logo=react&logoColor=61DAFB)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Baileys-25D366?logo=whatsapp&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-WAL-003B57?logo=sqlite&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-6467F2)
+![Código privado](https://img.shields.io/badge/c%C3%B3digo-privado-lightgrey)
 
 Un solo proyecto con dos piezas:
 
